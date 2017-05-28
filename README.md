@@ -24,4 +24,5 @@ This is a dataset of the Conservative Party of Canada 2017 leadership race. I pr
 | Northwest Territories (Region) | 13 | 133 | Kellie LEITCH | Maxime BERNIER |
 | Nunavut (Region) | 14 | 16 | Kellie LEITCH | Maxime BERNIER |
 
-
+## Map of final results
+![Map](make_map/map.png?raw=true "Final round results by riding")
