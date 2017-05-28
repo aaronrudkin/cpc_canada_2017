@@ -1,0 +1,353 @@
+Area,ID,NumVotes,WinRound1,WinLastRound
+Conservative Party of Canada (Region),1,141694,Maxime BERNIER,Andrew SCHEER
+Alberta (Region),2,28842,Andrew SAXTON,Maxime BERNIER
+British Columbia (Region),3,19318,Andrew SCHEER,Andrew SCHEER
+Manitoba (Region),4,4947,Brad TROST,Maxime BERNIER
+New Brunswick (Region),5,2130,Lisa RAITT,Andrew SCHEER
+Newfoundland and Labrador (Region),6,625,Kellie LEITCH,Maxime BERNIER
+Nova Scotia (Region),7,2880,Michael CHONG,Andrew SCHEER
+Ontario (Region),8,64784,Kellie LEITCH,Andrew SCHEER
+Prince Edward Island (Region),9,627,Andrew SAXTON,Andrew SCHEER
+Quebec (Region),10,9669,Chris ALEXANDER,Maxime BERNIER
+Saskatchewan (Region),11,7404,Erin O'TOOLE,Maxime BERNIER
+Yukon (Region),12,319,Michael CHONG,Andrew SCHEER
+Northwest Territories (Region),13,133,Kellie LEITCH,Maxime BERNIER
+Nunavut (Region),14,16,Kellie LEITCH,Maxime BERNIER
+Avalon,15,94,Michael CHONG,Maxime BERNIER
+Bonavista-Burin-Trinity,16,45,Andrew SCHEER,Maxime BERNIER
+Coast of Bays-Central-Notre Dame,17,69,Erin O'TOOLE,Maxime BERNIER
+Labrador,18,24,Kellie LEITCH,Andrew SCHEER
+Long Range Mountains,19,55,Michael CHONG,Maxime BERNIER
+St. John's East,20,208,Erin O'TOOLE,Maxime BERNIER
+St. John's South-Mount Pearl,21,130,Pierre LEMIEUX,Maxime BERNIER
+Cardigan,22,163,Kellie LEITCH,Andrew SCHEER
+Charlottetown,23,167,Michael CHONG,Andrew SCHEER
+Egmont,24,116,Pierre LEMIEUX,Andrew SCHEER
+Malpeque,25,181,Andrew SAXTON,Andrew SCHEER
+Cape Breton-Canso,26,187,Pierre LEMIEUX,Andrew SCHEER
+Central Nova,27,296,Kellie LEITCH,Andrew SCHEER
+Cumberland-Colchester,28,296,Lisa RAITT,Andrew SCHEER
+Dartmouth-Cole Harbour,29,272,Lisa RAITT,Andrew SCHEER
+Halifax,30,334,Kellie LEITCH,Maxime BERNIER
+Halifax West,31,311,Michael CHONG,Maxime BERNIER
+Kings-Hants,32,239,Lisa RAITT,Andrew SCHEER
+Sackville-Preston-Chezzetcook,33,254,Brad TROST,Andrew SCHEER
+South Shore-St. Margarets,34,277,Lisa RAITT,Andrew SCHEER
+Sydney-Victoria,35,172,Andrew SCHEER,Maxime BERNIER
+West Nova,36,242,Kellie LEITCH,Andrew SCHEER
+Acadie-Bathurst,37,41,Michael CHONG,Andrew SCHEER
+Beausejour,38,130,Erin O'TOOLE,Maxime BERNIER
+Fredericton,39,363,Lisa RAITT,Andrew SCHEER
+Fundy Royal,40,309,Kellie LEITCH,Andrew SCHEER
+Madawaska-Restigouche,41,69,Kellie LEITCH,Andrew SCHEER
+Miramichi-Grand Lake,42,143,Michael CHONG,Andrew SCHEER
+Moncton-Riverview-Dieppe,43,292,Kellie LEITCH,Andrew SCHEER
+New Brunswick Southwest,44,243,Kellie LEITCH,Andrew SCHEER
+Saint John-Rothesay,45,225,Brad TROST,Andrew SCHEER
+Tobique-Mactaquac,46,315,Kellie LEITCH,Andrew SCHEER
+Abitibi-Baie-James-Nunavik-Eeyou,47,27,Kellie LEITCH,Maxime BERNIER
+Abitibi-Temiscamingue,48,79,Andrew SCHEER,Andrew SCHEER
+Ahuntsic-Cartierville,49,81,Kellie LEITCH,Maxime BERNIER
+Alfred-Pellan,50,44,Pierre LEMIEUX,Maxime BERNIER
+Argenteuil-La Petite-Nation,51,102,Kellie LEITCH,Andrew SCHEER
+Avignon-La Mitis-Matane-Matapedia,52,61,Andrew SCHEER,Andrew SCHEER
+Beauce,53,1099,Maxime BERNIER,Andrew SCHEER
+Beauport-Limoilou,54,99,Andrew SCHEER,Maxime BERNIER
+Becancour-Nicolet-Saurel,55,110,Andrew SCHEER,Andrew SCHEER
+Bellechasse-Les Etchemins-Levis,56,435,Andrew SCHEER,Andrew SCHEER
+Beloeil-Chambly,57,64,Steven BLANEY,Andrew SCHEER
+Berthier-Maskinonge,58,146,Andrew SCHEER,Andrew SCHEER
+Therese-De Blainville,59,57,Chris ALEXANDER,Maxime BERNIER
+Pierre-Boucher-Les Patriotes-Vercheres,60,37,Erin O'TOOLE,Maxime BERNIER
+Bourassa,61,37,Maxime BERNIER,Maxime BERNIER
+Brome-Missisquoi,62,120,Pierre LEMIEUX,Andrew SCHEER
+Brossard-Saint-Lambert,63,162,Pierre LEMIEUX,Maxime BERNIER
+Rimouski-Neigette-Temiscouata-Les Basques,64,83,Andrew SCHEER,Andrew SCHEER
+Charlesbourg-Haute-Saint-Charles,65,117,Erin O'TOOLE,Maxime BERNIER
+Beauport-Cote-de-Beaupre-Ile d'Orleans-Charlevoix,66,111,Erin O'TOOLE,Maxime BERNIER
+Chateauguay-Lacolle,67,66,Kellie LEITCH,Maxime BERNIER
+Chicoutimi-Le Fjord,68,67,Pierre LEMIEUX,Andrew SCHEER
+Compton-Stanstead,69,138,Andrew SCHEER,Andrew SCHEER
+Dorval-Lachine-LaSalle,70,115,Kellie LEITCH,Maxime BERNIER
+Drummond,71,108,Pierre LEMIEUX,Andrew SCHEER
+Gaspesie-Les Iles-de-la-Madeleine,72,19,Maxime BERNIER,Maxime BERNIER
+Gatineau,73,138,Erin O'TOOLE,Maxime BERNIER
+Hochelaga,74,49,Michael CHONG,Maxime BERNIER
+Honore-Mercier,75,41,Kellie LEITCH,Maxime BERNIER
+Hull-Aylmer,76,207,Brad TROST,Maxime BERNIER
+Joliette,77,67,Steven BLANEY,Maxime BERNIER
+Jonquiere,78,53,Andrew SCHEER,Andrew SCHEER
+La Pointe-de-l'Ile,79,30,Steven BLANEY,Maxime BERNIER
+La Prairie,80,71,Maxime BERNIER,Maxime BERNIER
+Lac-Saint-Jean,81,165,Andrew SCHEER,Andrew SCHEER
+Lac-Saint-Louis,82,379,Brad TROST,Andrew SCHEER
+LaSalle-Emard-Verdun,83,91,Andrew SCHEER,Maxime BERNIER
+Laurentides-Labelle,84,40,Steven BLANEY,Maxime BERNIER
+Laurier-Sainte-Marie,85,93,Erin O'TOOLE,Maxime BERNIER
+Laval-Les Iles,86,107,Kellie LEITCH,Maxime BERNIER
+Longueuil-Charles-LeMoyne,87,68,Kellie LEITCH,Maxime BERNIER
+Levis-Lotbiniere,88,288,Andrew SCHEER,Andrew SCHEER
+Longueuil-Saint-Hubert,89,53,Erin O'TOOLE,Maxime BERNIER
+Louis-Hebert,90,169,Maxime BERNIER,Maxime BERNIER
+Louis-Saint-Laurent,91,177,Maxime BERNIER,Maxime BERNIER
+Manicouagan,92,35,Maxime BERNIER,Maxime BERNIER
+Megantic-L'Erable,93,325,Andrew SCHEER,Andrew SCHEER
+Mirabel,94,63,Kellie LEITCH,Andrew SCHEER
+Montarville,95,47,Pierre LEMIEUX,Maxime BERNIER
+Montcalm,96,46,Erin O'TOOLE,Maxime BERNIER
+Montmagny-L'Islet-Kamouraska-Riviere-du-Loup,97,211,Andrew SCHEER,Andrew SCHEER
+Mont-Royal (Mount Royal),98,235,Andrew SCHEER,Maxime BERNIER
+Notre-Dame-de-Grace-Westmount,99,269,Andrew SCHEER,Maxime BERNIER
+Outremont,100,121,Kellie LEITCH,Maxime BERNIER
+Papineau,101,52,Michael CHONG,Maxime BERNIER
+Pierrefonds-Dollard,102,221,Brad TROST,Maxime BERNIER
+Pontiac,103,292,Michael CHONG,Andrew SCHEER
+Portneuf-Jacques-Cartier,104,191,Andrew SCHEER,Andrew SCHEER
+Quebec,105,74,Kellie LEITCH,Maxime BERNIER
+Repentigny,106,19,Kevin O'LEARY,Maxime BERNIER
+Richmond-Arthabaska,107,194,Andrew SCHEER,Andrew SCHEER
+Riviere-des-Mille-Iles,108,47,Pierre LEMIEUX,Maxime BERNIER
+Riviere-du-Nord,109,20,Maxime BERNIER,Maxime BERNIER
+Rosemont-La Petite-Patrie,110,40,Pierre LEMIEUX,Maxime BERNIER
+Marc-Aurele-Fortin,111,49,Steven BLANEY,Maxime BERNIER
+Saint-Hyacinthe-Bagot,112,114,Andrew SCHEER,Andrew SCHEER
+Saint-Jean,113,98,Steven BLANEY,Andrew SCHEER
+Saint-Laurent,114,170,Kellie LEITCH,Maxime BERNIER
+Saint-Leonard-Saint-Michel,115,45,Erin O'TOOLE,Maxime BERNIER
+Saint-Maurice-Champlain,116,71,Kellie LEITCH,Andrew SCHEER
+Salaberry-Suroit,117,107,Steven BLANEY,Andrew SCHEER
+Shefford,118,115,Pierre LEMIEUX,Andrew SCHEER
+Sherbrooke,119,53,Michael CHONG,Maxime BERNIER
+Vaudreuil-Soulanges,120,121,Andrew SCHEER,Maxime BERNIER
+Terrebonne,121,31,Andrew SCHEER,Maxime BERNIER
+Trois-Rivieres,122,54,Maxime BERNIER,Maxime BERNIER
+Ville-Marie-Le Sud-Ouest-Ile-des-Soeurs,123,175,Erin O'TOOLE,Maxime BERNIER
+Vimy,124,94,Pierre LEMIEUX,Maxime BERNIER
+Ajax,125,444,Brad TROST,Andrew SCHEER
+Algoma-Manitoulin-Kapuskasing,126,245,Pierre LEMIEUX,Andrew SCHEER
+Aurora-Oak Ridges-Richmond Hill,127,832,Michael CHONG,Andrew SCHEER
+Barrie-Innisfil,128,481,Brad TROST,Maxime BERNIER
+Barrie-Springwater-Oro-Medonte,129,513,Andrew SCHEER,Maxime BERNIER
+Bay of Quinte,130,510,Kellie LEITCH,Andrew SCHEER
+Beaches-East York,131,397,Lisa RAITT,Maxime BERNIER
+Brampton Centre,132,221,Brad TROST,Andrew SCHEER
+Brampton East,133,318,Chris ALEXANDER,Andrew SCHEER
+Brampton North,134,266,Pierre LEMIEUX,Maxime BERNIER
+Brampton South,135,292,Erin O'TOOLE,Andrew SCHEER
+Brampton West,136,217,Pierre LEMIEUX,Andrew SCHEER
+Brantford-Brant,137,487,Brad TROST,Andrew SCHEER
+Bruce-Grey-Owen Sound,138,767,Pierre LEMIEUX,Andrew SCHEER
+Burlington,139,750,Lisa RAITT,Maxime BERNIER
+Cambridge,140,485,Brad TROST,Andrew SCHEER
+Chatham-Kent-Leamington,141,435,Brad TROST,Andrew SCHEER
+Davenport,142,250,Pierre LEMIEUX,Maxime BERNIER
+Don Valley East,143,280,Michael CHONG,Andrew SCHEER
+Don Valley North,144,636,Michael CHONG,Andrew SCHEER
+Don Valley West,145,808,Andrew SCHEER,Maxime BERNIER
+Dufferin-Caledon,146,760,Erin O'TOOLE,Andrew SCHEER
+Durham,147,851,Pierre LEMIEUX,Andrew SCHEER
+Eglinton-Lawrence,148,595,Andrew SCHEER,Maxime BERNIER
+Elgin-Middlesex-London,149,735,Brad TROST,Andrew SCHEER
+Essex,150,464,Brad TROST,Andrew SCHEER
+Etobicoke Centre,151,594,Michael CHONG,Maxime BERNIER
+Etobicoke-Lakeshore,152,619,Kellie LEITCH,Maxime BERNIER
+Etobicoke North,153,247,Brad TROST,Andrew SCHEER
+Flamborough-Glanbrook,154,547,Brad TROST,Andrew SCHEER
+Glengarry-Prescott-Russell,155,654,Pierre LEMIEUX,Andrew SCHEER
+Guelph,156,641,Erin O'TOOLE,Andrew SCHEER
+Haldimand-Norfolk,157,522,Kellie LEITCH,Andrew SCHEER
+Haliburton-Kawartha Lakes-Brock,158,684,Pierre LEMIEUX,Maxime BERNIER
+Hamilton Centre,159,248,Pierre LEMIEUX,Maxime BERNIER
+Hamilton East-Stoney Creek,160,182,Erin O'TOOLE,Maxime BERNIER
+Hamilton Mountain,161,197,Erin O'TOOLE,Maxime BERNIER
+Hamilton West-Ancaster-Dundas,162,566,Pierre LEMIEUX,Maxime BERNIER
+Hastings-Lennox and Addington,163,500,Kellie LEITCH,Andrew SCHEER
+Huron-Bruce,164,679,Michael CHONG,Andrew SCHEER
+Kanata-Carleton,165,965,Michael CHONG,Maxime BERNIER
+Kenora,166,221,Pierre LEMIEUX,Maxime BERNIER
+King-Vaughan,167,525,Michael CHONG,Maxime BERNIER
+Kingston and the Islands,168,551,Pierre LEMIEUX,Andrew SCHEER
+Kitchener Centre,169,468,Andrew SCHEER,Andrew SCHEER
+Kitchener-Conestoga,170,623,Kellie LEITCH,Andrew SCHEER
+Kitchener South-Hespeler,171,414,Andrew SCHEER,Maxime BERNIER
+Lambton-Kent-Middlesex,172,763,Kellie LEITCH,Andrew SCHEER
+Lanark-Frontenac-Kingston,173,765,Kellie LEITCH,Andrew SCHEER
+Leeds-Grenville-Thousand Islands and Rideau Lakes,174,695,Pierre LEMIEUX,Andrew SCHEER
+London-Fanshawe,175,347,Brad TROST,Andrew SCHEER
+London North Centre,176,672,Pierre LEMIEUX,Maxime BERNIER
+London West,177,748,Brad TROST,Maxime BERNIER
+Markham-Stouffville,178,628,Kellie LEITCH,Andrew SCHEER
+Markham-Thornhill,179,376,Michael CHONG,Andrew SCHEER
+Markham-Unionville,180,877,Brad TROST,Andrew SCHEER
+Milton,181,658,Pierre LEMIEUX,Andrew SCHEER
+Mississauga Centre,182,452,Kellie LEITCH,Andrew SCHEER
+Mississauga East-Cooksville,183,287,Erin O'TOOLE,Maxime BERNIER
+Mississauga-Erin Mills,184,863,Michael CHONG,Andrew SCHEER
+Mississauga-Lakeshore,185,664,Michael CHONG,Maxime BERNIER
+Mississauga-Malton,186,314,Michael CHONG,Andrew SCHEER
+Mississauga-Streetsville,187,670,Kellie LEITCH,Andrew SCHEER
+Nepean,188,828,Kellie LEITCH,Maxime BERNIER
+Newmarket-Aurora,189,591,Kellie LEITCH,Maxime BERNIER
+Niagara Centre,190,336,Kellie LEITCH,Andrew SCHEER
+Niagara Falls,191,547,Brad TROST,Maxime BERNIER
+Niagara West,192,685,Erin O'TOOLE,Andrew SCHEER
+Nickel Belt,193,181,Michael CHONG,Maxime BERNIER
+Nipissing-Timiskaming,194,334,Brad TROST,Maxime BERNIER
+Northumberland-Peterborough South,195,719,Kellie LEITCH,Andrew SCHEER
+Oakville,196,971,Pierre LEMIEUX,Maxime BERNIER
+Oakville North-Burlington,197,846,Erin O'TOOLE,Maxime BERNIER
+Oshawa,198,454,Brad TROST,Maxime BERNIER
+Ottawa Centre,199,1083,Pierre LEMIEUX,Andrew SCHEER
+Orleans,200,863,Michael CHONG,Andrew SCHEER
+Ottawa South,201,850,Kellie LEITCH,Maxime BERNIER
+Ottawa-Vanier,202,612,Erin O'TOOLE,Andrew SCHEER
+Ottawa West-Nepean,203,805,Kellie LEITCH,Andrew SCHEER
+Oxford,204,712,Brad TROST,Andrew SCHEER
+Parkdale-High Park,205,512,Erin O'TOOLE,Maxime BERNIER
+Parry Sound-Muskoka,206,552,Andrew SCHEER,Maxime BERNIER
+Perth-Wellington,207,751,Brad TROST,Andrew SCHEER
+Peterborough-Kawartha,208,575,Brad TROST,Andrew SCHEER
+Pickering-Uxbridge,209,458,Pierre LEMIEUX,Maxime BERNIER
+Renfrew-Nipissing-Pembroke,210,769,Brad TROST,Andrew SCHEER
+Richmond Hill,211,576,Michael CHONG,Andrew SCHEER
+Carleton,212,995,Michael CHONG,Andrew SCHEER
+St. Catharines,213,431,Pierre LEMIEUX,Andrew SCHEER
+Toronto-St. Paul's,214,735,Andrew SCHEER,Maxime BERNIER
+Sarnia-Lambton,215,727,Michael CHONG,Andrew SCHEER
+Sault Ste. Marie,216,221,Brad TROST,Andrew SCHEER
+Scarborough-Agincourt,217,460,Pierre LEMIEUX,Andrew SCHEER
+Scarborough Centre,218,241,Kellie LEITCH,Maxime BERNIER
+Scarborough-Guildwood,219,257,Erin O'TOOLE,Andrew SCHEER
+Scarborough North,220,315,Michael CHONG,Andrew SCHEER
+Scarborough-Rouge Park,221,315,Pierre LEMIEUX,Maxime BERNIER
+Scarborough Southwest,222,269,Erin O'TOOLE,Maxime BERNIER
+Simcoe-Grey,223,895,Pierre LEMIEUX,Maxime BERNIER
+Simcoe North,224,543,Kellie LEITCH,Maxime BERNIER
+Spadina-Fort York,225,551,Erin O'TOOLE,Maxime BERNIER
+Stormont-Dundas-South Glengarry,226,685,Kellie LEITCH,Andrew SCHEER
+Sudbury,227,300,Michael CHONG,Maxime BERNIER
+Thornhill,228,622,Michael CHONG,Maxime BERNIER
+Thunder Bay-Rainy River,229,296,Michael CHONG,Andrew SCHEER
+Thunder Bay-Superior North,230,236,Andrew SCHEER,Maxime BERNIER
+Timmins-James Bay,231,172,Kellie LEITCH,Maxime BERNIER
+Toronto Centre,232,461,Andrew SCHEER,Maxime BERNIER
+Toronto-Danforth,233,415,Erin O'TOOLE,Maxime BERNIER
+University-Rosedale,234,812,Andrew SCHEER,Maxime BERNIER
+Vaughan-Woodbridge,235,244,Pierre LEMIEUX,Maxime BERNIER
+Waterloo,236,765,Erin O'TOOLE,Andrew SCHEER
+Wellington-Halton Hills,237,1337,Andrew SCHEER,Andrew SCHEER
+Whitby,238,630,Brad TROST,Maxime BERNIER
+Willowdale,239,426,Kellie LEITCH,Andrew SCHEER
+Windsor-Tecumseh,240,249,Lisa RAITT,Maxime BERNIER
+Windsor West,241,236,Michael CHONG,Maxime BERNIER
+York Centre,242,294,Lisa RAITT,Maxime BERNIER
+York-Simcoe,243,367,Brad TROST,Maxime BERNIER
+York South-Weston,244,109,Brad TROST,Andrew SCHEER
+Humber River-Black Creek,245,98,Pierre LEMIEUX,Andrew SCHEER
+Brandon-Souris,246,561,Brad TROST,Andrew SCHEER
+Charleswood-St. James-Assiniboia-Headingley,247,442,Pierre LEMIEUX,Maxime BERNIER
+Churchill-Keewatinook Aski,248,84,Erin O'TOOLE,Maxime BERNIER
+Dauphin-Swan River-Neepawa,249,448,Pierre LEMIEUX,Andrew SCHEER
+Elmwood-Transcona,250,248,Erin O'TOOLE,Andrew SCHEER
+Kildonan-St. Paul,251,338,Kellie LEITCH,Andrew SCHEER
+Portage-Lisgar,252,535,Kellie LEITCH,Andrew SCHEER
+Provencher,253,468,Brad TROST,Andrew SCHEER
+Saint Boniface-Saint Vital,254,325,Michael CHONG,Maxime BERNIER
+Selkirk-Interlake-Eastman,255,416,Kellie LEITCH,Andrew SCHEER
+Winnipeg Centre,256,174,Kellie LEITCH,Maxime BERNIER
+Winnipeg North,257,81,Michael CHONG,Maxime BERNIER
+Winnipeg South,258,370,Brad TROST,Maxime BERNIER
+Winnipeg South Centre,259,457,Kellie LEITCH,Maxime BERNIER
+Battlefords-Lloydminster,260,443,Pierre LEMIEUX,Andrew SCHEER
+Cypress Hills-Grasslands,261,598,Pierre LEMIEUX,Andrew SCHEER
+Desnethe-Missinippi-Churchill River,262,205,Erin O'TOOLE,Andrew SCHEER
+Carlton Trail-Eagle Creek,263,612,Pierre LEMIEUX,Andrew SCHEER
+Moose Jaw-Lake Centre-Lanigan,264,549,Brad TROST,Andrew SCHEER
+Prince Albert,265,527,Kellie LEITCH,Andrew SCHEER
+Regina-Lewvan,266,592,Pierre LEMIEUX,Andrew SCHEER
+Regina-Qu'Appelle,267,601,Andrew SCHEER,Andrew SCHEER
+Regina-Wascana,268,544,Brad TROST,Andrew SCHEER
+Saskatoon-Grasswood,269,630,Kellie LEITCH,Andrew SCHEER
+Saskatoon-University,270,609,Pierre LEMIEUX,Andrew SCHEER
+Saskatoon West,271,291,Erin O'TOOLE,Andrew SCHEER
+Souris-Moose Mountain,272,634,Erin O'TOOLE,Andrew SCHEER
+Yorkton-Melville,273,569,Brad TROST,Andrew SCHEER
+Banff-Airdrie,274,1120,Maxime BERNIER,Maxime BERNIER
+Battle River-Crowfoot,275,873,Brad TROST,Andrew SCHEER
+Bow River,276,826,Erin O'TOOLE,Maxime BERNIER
+Calgary Centre,277,1101,Erin O'TOOLE,Maxime BERNIER
+Calgary Confederation,278,1109,Maxime BERNIER,Maxime BERNIER
+Calgary Forest Lawn,279,286,Kellie LEITCH,Maxime BERNIER
+Calgary Heritage,280,1279,Brad TROST,Maxime BERNIER
+Calgary Midnapore,281,1226,Brad TROST,Maxime BERNIER
+Calgary Nose Hill,282,803,Erin O'TOOLE,Maxime BERNIER
+Calgary Rocky Ridge,283,1091,Brad TROST,Maxime BERNIER
+Calgary Shepard,284,881,Erin O'TOOLE,Maxime BERNIER
+Calgary Signal Hill,285,1253,Pierre LEMIEUX,Maxime BERNIER
+Calgary Skyview,286,357,Brad TROST,Maxime BERNIER
+Edmonton Centre,287,591,Brad TROST,Maxime BERNIER
+Edmonton Griesbach,288,369,Erin O'TOOLE,Andrew SCHEER
+Edmonton Manning,289,362,Erin O'TOOLE,Maxime BERNIER
+Edmonton Mill Woods,290,356,Pierre LEMIEUX,Andrew SCHEER
+Edmonton Riverbend,291,1090,Erin O'TOOLE,Maxime BERNIER
+Edmonton Strathcona,292,531,Pierre LEMIEUX,Maxime BERNIER
+Edmonton West,293,644,Erin O'TOOLE,Maxime BERNIER
+Edmonton-Wetaskiwin,294,960,Erin O'TOOLE,Andrew SCHEER
+Foothills,295,1338,Erin O'TOOLE,Andrew SCHEER
+Fort McMurray-Cold Lake,296,493,Brad TROST,Maxime BERNIER
+Grande Prairie-Mackenzie,297,797,Erin O'TOOLE,Andrew SCHEER
+Lakeland,298,801,Pierre LEMIEUX,Andrew SCHEER
+Lethbridge,299,1102,Brad TROST,Andrew SCHEER
+Medicine Hat-Cardston-Warner,300,1425,Pierre LEMIEUX,Andrew SCHEER
+Peace River-Westlock,301,681,Pierre LEMIEUX,Andrew SCHEER
+Red Deer-Mountain View,302,916,Brad TROST,Maxime BERNIER
+Red Deer-Lacombe,303,903,Pierre LEMIEUX,Andrew SCHEER
+St. Albert-Edmonton,304,707,Pierre LEMIEUX,Maxime BERNIER
+Sherwood Park-Fort Saskatchewan,305,1041,Erin O'TOOLE,Andrew SCHEER
+Sturgeon River-Parkland,306,881,Pierre LEMIEUX,Maxime BERNIER
+Yellowhead,307,649,Erin O'TOOLE,Maxime BERNIER
+Abbotsford,308,774,Pierre LEMIEUX,Andrew SCHEER
+Burnaby North-Seymour,309,290,Brad TROST,Maxime BERNIER
+Burnaby South,310,327,Michael CHONG,Andrew SCHEER
+Cariboo-Prince George,311,502,Brad TROST,Andrew SCHEER
+Central Okanagan-Similkameen-Nicola,312,643,Kellie LEITCH,Andrew SCHEER
+Chilliwack-Hope,313,801,Erin O'TOOLE,Andrew SCHEER
+Cloverdale-Langley City,314,450,Erin O'TOOLE,Andrew SCHEER
+Coquitlam-Port Coquitlam,315,347,Erin O'TOOLE,Andrew SCHEER
+Courtenay-Alberni,316,576,Kellie LEITCH,Andrew SCHEER
+Cowichan-Malahat-Langford,317,423,Kellie LEITCH,Andrew SCHEER
+Delta,318,426,Michael CHONG,Andrew SCHEER
+Fleetwood-Port Kells,319,360,Erin O'TOOLE,Andrew SCHEER
+Kamloops-Thompson-Cariboo,320,465,Kellie LEITCH,Maxime BERNIER
+Kelowna-Lake Country,321,669,Kellie LEITCH,Andrew SCHEER
+Kootenay-Columbia,322,535,Pierre LEMIEUX,Andrew SCHEER
+Langley-Aldergrove,323,825,Michael CHONG,Andrew SCHEER
+Mission-Matsqui-Fraser Canyon,324,576,Kellie LEITCH,Andrew SCHEER
+Nanaimo-Ladysmith,325,517,Michael CHONG,Maxime BERNIER
+New Westminster-Burnaby,326,261,Erin O'TOOLE,Andrew SCHEER
+North Okanagan-Shuswap,327,761,Brad TROST,Andrew SCHEER
+North Vancouver,328,488,Pierre LEMIEUX,Maxime BERNIER
+Pitt Meadows-Maple Ridge,329,357,Brad TROST,Andrew SCHEER
+Port Moody-Coquitlam,330,321,Erin O'TOOLE,Maxime BERNIER
+Prince George-Peace River-Northern Rockies,331,501,Erin O'TOOLE,Andrew SCHEER
+Richmond Centre,332,337,Michael CHONG,Maxime BERNIER
+Esquimalt-Saanich-Sooke,333,394,Brad TROST,Maxime BERNIER
+Saanich-Gulf Islands,334,510,Pierre LEMIEUX,Maxime BERNIER
+Skeena-Bulkley Valley,335,291,Kellie LEITCH,Andrew SCHEER
+South Okanagan-West Kootenay,336,519,Erin O'TOOLE,Andrew SCHEER
+South Surrey-White Rock,337,654,Brad TROST,Maxime BERNIER
+Steveston-Richmond East,338,288,Erin O'TOOLE,Andrew SCHEER
+Surrey Centre,339,230,Pierre LEMIEUX,Maxime BERNIER
+Surrey-Newton,340,151,Erin O'TOOLE,Maxime BERNIER
+Vancouver Centre,341,419,Andrew SCHEER,Maxime BERNIER
+Vancouver East,342,278,Andrew SCHEER,Maxime BERNIER
+Vancouver Granville,343,549,Andrew SCHEER,Maxime BERNIER
+North Island-Powell River,344,448,Pierre LEMIEUX,Andrew SCHEER
+Vancouver Kingsway,345,171,Erin O'TOOLE,Maxime BERNIER
+Vancouver Quadra,346,576,Lisa RAITT,Maxime BERNIER
+Vancouver South,347,177,Michael CHONG,Andrew SCHEER
+Victoria,348,548,Erin O'TOOLE,Maxime BERNIER
+West Vancouver-Sunshine Coast-Sea to Sky Country,349,583,Kellie LEITCH,Maxime BERNIER
+Yukon,350,319,Michael CHONG,Andrew SCHEER
+Northwest Territories,351,133,Kellie LEITCH,Maxime BERNIER
+Nunavut,352,16,Kellie LEITCH,Maxime BERNIER
